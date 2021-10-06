@@ -11,4 +11,3 @@ Portfolio is my pre-alpha portfolio file (Currently I cannot transfer my backgro
 
 These websites have helped me better understand the HTML and CSS fundamentals. The only site with any other language is my portfolio site which has javascript added and Bootstrap4 which has some javascript with the bootstrap. 
 
-These sites are nothing more than practice and hold no real world value. I will continue to make projects but will post them in an other folder after my bootcamp is over. 
